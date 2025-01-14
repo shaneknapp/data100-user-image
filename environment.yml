@@ -50,7 +50,7 @@ dependencies:
 - pip:
   # disable until fixed (probably this:  https://github.com/jupyterlab/jupyter-collaboration/issues/162)
   # - jupyter_collaboration==1.0.1
-  - jupyterhub==4.1.6
+  - jupyterhub==5.2.1
   - nbconvert[webpdf]
   #  - pyppeteer==2.0.0
   - pytest-notebook==0.8.1
