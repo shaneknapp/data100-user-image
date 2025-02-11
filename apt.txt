@@ -1,21 +1,20 @@
 # Some linux packages for basic terminal work, particularly
 # oriented at users new to Unix/cmd line environments.
 
-# Basic unix tools
+# general desired cli tools
+curl
+emacs
 less
 man
 man-db
 manpages-posix
 manpages-dev
 manpages-posix-dev
-
-# Download tools
-curl
-wget
 rsync
-
-# Core text editors on a *nix box: vim
+screen
 vim
+wget
+zip
 
 # A couple of CLI editors that are easier than vim
 # micro  # currently not working on 18.04
@@ -46,11 +45,9 @@ latexdiff
 ack   # powerful grep-like tool
 pydf  # colorized disk usage
 tmux
-screen
 htop
 nnn   # cmd line file manager
 zsh
-rsync
 tig  # console UI for git
 multitail
 
