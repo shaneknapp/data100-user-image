@@ -44,16 +44,16 @@ dependencies:
   - requests==2.32.4
   - scikit-image==0.25.2
   - scikit-learn==1.7.0
-  - scipy==1.15.2
+  - scipy==1.14.1
   - seaborn==0.13.2
   - sqlalchemy==2.0.41
   - statsmodels==0.14.4
-  - tensorflow-cpu==2.18.0
+  - tensorflow-cpu==2.17.0
   - ydata-profiling==4.16.0
 
   # Spring 2024 data 100
   - cpuonly==2.0
-  - pytorch==2.7.0
+  - pytorch-cpu==2.5.1
   - transformers==4.52.4
   # Spring 2024 table demos
   - lxml==5.4.0
