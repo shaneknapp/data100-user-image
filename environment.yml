@@ -34,7 +34,7 @@ dependencies:
   - jupyterlab-favorites==3.2.2
   - jupyterlab_server==2.27.3
   - jupyterlab_widgets==3.0.15
-  - matplotlib==3.10.3
+  - matplotlib==3.9.2
   - mdit-py-plugins==0.4.2
   - mlxtend==0.23.4
   - numpy==1.26.4
@@ -42,14 +42,14 @@ dependencies:
   - plotly==6.1.2
   - pytest-notebook==0.10.0
   - requests==2.32.4
-  - scikit-image==0.25.2
+  - scikit-image==0.25.0
   - scikit-learn==1.7.0
   - scipy==1.13.1
   - seaborn==0.13.2
   - sqlalchemy==2.0.41
   - statsmodels==0.14.4
   - tensorflow-cpu==2.17.0
-  - ydata-profiling==4.16.0
+  - ydata-profiling==4.16.1
 
   # Spring 2024 data 100
   - cpuonly==2.0
