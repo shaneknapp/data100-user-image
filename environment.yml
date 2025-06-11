@@ -37,14 +37,14 @@ dependencies:
   - matplotlib==3.10.3
   - mdit-py-plugins==0.4.2
   - mlxtend==0.23.4
-  - numpy==2.3.0
+  - numpy==1.26.4
   - pandas==2.3.0
   - plotly==6.1.2
   - pytest-notebook==0.10.0
   - requests==2.32.4
   - scikit-image==0.25.2
   - scikit-learn==1.7.0
-  - scipy==1.14.1
+  - scipy==1.13.1
   - seaborn==0.13.2
   - sqlalchemy==2.0.41
   - statsmodels==0.14.4
