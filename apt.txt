@@ -16,6 +16,8 @@ vim
 wget
 zip
 
+# Regular build tools for compiling common stuff
+build-essential
 
 # Dependencies for nbconvert
 texlive-xetex
