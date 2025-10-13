@@ -83,4 +83,4 @@ dependencies:
     # - jupyter_collaboration==1.0.1
 
     # https://github.com/berkeley-dsep-infra/datahub/issues/7611
-    - otter-pensieve==1.16.0
+    - otter-pensieve==1.6.0
